@@ -1,4 +1,4 @@
-public class CommonMethods {
+public class Test {
 	CommonConfig configFile;
 
 	public CommonMethods(CommonConfig config) {
